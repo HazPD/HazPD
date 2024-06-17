@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring software developer
 ---------------------------
 
-I'm an undergraduate 3rd yr IT student who is current working as a Content Moderator for a social media platform. I've been working for 4 yrs and do coding as a hobby.
+I'm an undergraduate 3rd yr IT student who is currently working as a Content Moderator for a social media platform. I've been working for 4 yrs and do coding as a hobby.
 
 * 🌍  I'm based in Antipolo, Rizal, Philippines
 * 🧠  I'm learning Python
