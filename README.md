@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christian Reilly Panen.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is HAZ.
 ===============================================================================================================================================
 
-Aspiring software developer
+I code python as a hobby. I love algorithms and exploits.
 ---------------------------
 
 I'm an undergraduate 3rd yr IT student who is currently working as a Content Moderator for a social media platform. I've been working for 4 yrs and do coding as a hobby.
